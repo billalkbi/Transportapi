@@ -75,9 +75,8 @@
 		             GetPhotos();
 	              }
             }
-      
-
-		echo" helllo";	
+     
+			
 			
 			
 		
